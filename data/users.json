@@ -1,0 +1,38 @@
+[
+  {
+    "id": "e1bf28f8-b2e3-4e92-9c67-c9daf79db28c",
+    "fullName": "Test Engineer",
+    "countryCode": "+998",
+    "phoneNumber": "901234567",
+    "fullPhone": "+998901234567",
+    "passwordHash": "43d59b3045d35b2ea9a6c57646f35fbd04d6d93c6718d5908ea0606f75e9449888a40b433b54776a5c20f8ab0101596e3213b527f0d25d3497c46a88472703b7",
+    "salt": "36cf87190c73fc0889fa194bb6b3d3bd",
+    "backupPin": "355510",
+    "faceBiometrics": {
+      "enrolled": true,
+      "descriptor": [
+        0.12,
+        -0.05,
+        0.23,
+        -0.11,
+        0.08,
+        -0.03,
+        0.15,
+        -0.09,
+        0.18,
+        0.04,
+        -0.02,
+        0.1,
+        0.05,
+        -0.06,
+        0.14,
+        -0.01,
+        1.35,
+        0.62
+      ],
+      "enrolledAt": "2026-10-24T13:42:39.822Z",
+      "livenessScore": 0.95
+    },
+    "createdAt": "2026-10-24T13:42:31.421Z"
+  }
+]
